@@ -1,0 +1,26 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8%;    
+}
+#color-box{
+    height: 50%;
+    width: 80%;
+    background-color: yellowgreen;
+}
+#change-color-btn{
+    margin-top: 2%;
+    height: 8%;
+    width:11%;
+    padding: 5px;
+    border-radius: 15px;
+    border: none;
+    font-size: large;
+    font-weight:540;
+    font-family: cursive;
+    background-color: cornflowerblue;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
